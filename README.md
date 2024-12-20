@@ -66,7 +66,7 @@
 > ---
 >
 >
-> 
+>  ![Image 1](https://pbs.twimg.com/media/GfPCzmUXoAAajdm?format=jpg&name=900x900)
 >
 > Hello, everyone! I’m   **[Sam Rohan](https://x.com/_samrohan_),** the Founder, Director, and Chief Security Engineer of **CYBERSQUAD**, an open-source cybersecurity research and development initiative based in India. At **CYBERSQUAD**, we operate as a global hub for collaboration, bringing together cybersecurity enthusiasts, researchers, and professionals to advance security and threat intelligence.  
 >
@@ -366,7 +366,7 @@ The **Cold Zero Strategy** aligns seamlessly with **S.H.I.E.L.D: Intelligent Sec
 >
 > AT THE CORE OF OUR BUSINESS LIES A STEADFAST COMMITMENT TO EXCELLENCE, INTEGRITY, AND EMPOWERMENT. HERE'S A GLIMPSE INTO OUR PHILOSOPHY AND THE UNWAVERING COMMITMENT WE HOLD TOWARDS OUR BUSINESS, CLIENTS, AND COLLABORATIVE TEAMS:
 >
->
+> ![Image 2](https://pbs.twimg.com/media/GfO_1owXYAAPf-M?format=jpg&name=900x900)
 > ----------
  
 <br>
@@ -463,7 +463,7 @@ The **Cold Zero Strategy** aligns seamlessly with **S.H.I.E.L.D: Intelligent Sec
 > 
 > OUR WORK-LIFE FREEDOM FRAMEWORK IS A HOLISTIC APPROACH WE'VE DEVELOPED TO EMPOWER OURSELVES AND OTHERS WITH THE INTELLECTUAL, PROFESSIONAL, AND PERSONAL FREEDOMS NECESSARY FOR INNOVATION AND SUSTAINABLE SUCCESS. WE STRIVE TO FOSTER A COLLABORATIVE AND SUPPORTIVE ENVIRONMENT WHERE AUTONOMY, WELL-BEING, AND CREATIVITY THRIVE, ALLOWING EACH PERSON IN OUR COMMUNITY TO ACHIEVE THEIR FULL POTENTIAL.
 >
->
+> ![Image 3](https://pbs.twimg.com/media/GfO_Q2SWwAA1fK5?format=jpg&name=900x900)
 > ----------
 
 <br>
@@ -526,7 +526,7 @@ Our Work-Life Freedom Framework provides a foundation for growth, innovation, an
 >
 > IN THE FORGE OF HUMAN STRUGGLE, IDEOLOGIES EMERGE AS IMMORTAL FORCES, SURPASSING THE CONSTRAINTS OF FLESH AND BONE TO COMMAND HEARTS AND MINDS. THEY BREAK FREE FROM CHAINS, TRANSCEND BORDERS, AND DEFY EVEN DEATH ITSELF.
 >
->
+> ![Image 4](https://pbs.twimg.com/media/GfO-vWDWAAAXeuY?format=jpg&name=900x900)
 > ----------
 
 <br>
@@ -580,7 +580,7 @@ Our Work-Life Freedom Framework provides a foundation for growth, innovation, an
 >
 > INNOVATION, ROOTED IN STEADFAST PRINCIPLES—QUALITY, CUSTOMER FOCUS, TEAM EMPOWERMENT, RELENTLESS IMPROVEMENT, AND BOUNDLESS OPTIMISM—DRIVES US FORWARD. IN OUR COMMUNITY, WE CHART A COURSE FOR SUCCESS WITH UNSHAKABLE DEDICATION AND RESOLVE.
 >
->
+> ![Image 5](https://pbs.twimg.com/media/GfO-bkZXEAAImkp?format=jpg&name=900x900)
 > ----------
  
 <br>
@@ -650,6 +650,14 @@ Our Work-Life Freedom Framework provides a foundation for growth, innovation, an
 <br>
 <br>
 
+> ----------
+>
+> ![Image 6](https://pbs.twimg.com/media/GfO-Eh2XEAABBbC?format=jpg&name=900x900)
+>
+> ---------
+
+<br>
+<br>
 
 | Guideline                          | Description                                                                                                                                                          |
 |------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -694,7 +702,7 @@ Our Work-Life Freedom Framework provides a foundation for growth, innovation, an
 > 
 > **OUR SECURITY MOTTO**: *“COLLABORATE WITH CARE, INNOVATE WITH INTEGRITY.”* THESE GUIDELINES ENSURE THAT OUR SPACE REMAINS SECURE, RESPECTFUL, AND INNOVATIVE AS WE ADVANCE TOMORROW’S TECHNOLOGY.
 >
->
+> ![Image 7](https://pbs.twimg.com/media/GfO9ZOeWIAAECA2?format=jpg&name=900x900)
 > ----------
 
 <br>

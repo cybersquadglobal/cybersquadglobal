@@ -1,5 +1,3 @@
-
-
 <br>
 <br>
 <br>
@@ -19,6 +17,13 @@
 <br>
 <br>
 <br>
+
+<p align="center">
+    <a href="https://github.com/cybersquadglobal/cybervault">
+        <img src="https://img.shields.io/badge/CYBER%20VAULT-007bff?style=for-the-badge&labelColor=000000" alt="CYBER VAULT" style="margin: 10px;">
+    </a>
+</p>
+
 <br>
 <br>
 <br>
@@ -743,14 +748,24 @@ We are committed to sustainable technology practices, encouraging members to use
 **12. Member Accountability and Disciplinary Action**  
 Members are expected to uphold these security policies and guidelines at all times. Violations may result in disciplinary action, including restricted access, revocation of membership privileges, or legal action if warranted. We strive for a collaborative environment where each member takes responsibility for safeguarding shared resources.
 
- 
 
 <br>
 <br>
 <br>
 <br>
 
- 
+<p align="center">
+    <a href="https://github.com/cybersquadglobal/cybervault">
+        <img src="https://img.shields.io/badge/CYBER%20VAULT-007bff?style=for-the-badge&labelColor=000000" alt="CYBER VAULT" style="margin: 10px;">
+    </a>
+</p>
+
+<br>
+<br>
+<br>
+<br>
+
+
 
 
 ----------
